@@ -1,0 +1,13 @@
+{
+    "javascript.suggest.autoImports": false,
+    "javascript.preferences.importModuleSpecifier": "relative",
+    "javascript.preferences.quoteStyle": "single",
+    "javascript.preferences.useCodeSnippetsOnMethodSuggest": true,
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "typescript.preferences.quoteStyle": "single",
+    "typescript.preferences.useCodeSnippetsOnMethodSuggest": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  }
+  
